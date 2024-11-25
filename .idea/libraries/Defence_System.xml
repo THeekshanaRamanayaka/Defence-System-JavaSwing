@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Defence_System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Defence_System.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
